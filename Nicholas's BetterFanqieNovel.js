@@ -13,13 +13,13 @@
     'use strict';
 
     document.addEventListener('keydown', function(event) {
-        if (event.key === 'ArrowRight') { // 右箭头触发下一页按钮
+        if (event.key === 'ArrowRight') { // 右箭头触发“下一章”按钮
             var button = document.querySelector('.next'); 
             if (button) {
                 button.click();
             }
         }
-        if (event.key === 'ArrowLeft') { // 左箭头触发上一页按钮
+        if (event.key === 'ArrowLeft') { // 左箭头触发“上一章”按钮
             var button = document.querySelector('.last'); 
             if (button) {
                 button.click();
