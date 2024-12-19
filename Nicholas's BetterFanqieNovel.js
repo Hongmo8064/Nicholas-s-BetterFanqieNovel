@@ -1,6 +1,5 @@
 // ==UserScript==
-// @name         Nicholas's BetterFanqieNovel
-// @name:zh-CN   更好的番茄小说
+// @name         Nicholas's BetterFanqieNovel|更好的番茄小说
 // @namespace    https://fanqienovel.com
 // @version      0.1
 // @description  让番茄变得更好
